@@ -21,15 +21,5 @@ namespace EntityFrameworkStoredProcedure
 
         void AddParameters(SqlParameter parameter, ParameterDirection direction);
 
-
-
-
-
-
-
-
-
-
-
     }
 }
